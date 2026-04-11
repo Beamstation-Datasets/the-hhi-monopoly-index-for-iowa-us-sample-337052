@@ -1,0 +1,22 @@
+{
+  "base_price": 4995,
+  "beamstation_catalog_url": "https://beamstation.com/datasets",
+  "beamstation_origin": "https://beamstation.com",
+  "category_group_name": "Restaurants",
+  "config_category": "acquisition",
+  "config_description": "--HHI Dominance--\n\nNear-monopoly positions in their local market.\n\nBusinesses that mathematically \"own\" their local market (>30% share) with high HHI contribution of >900 within 1km.\n\nSafe, cash-flow-heavy bets that competitors can't easily dislodge.",
+  "config_name": "The HHI Monopoly Index for Iowa, US",
+  "export_job_id": "e35addfc-d320-49a8-87dc-685f2e5c2bd9",
+  "github_org": "Beamstation-Datasets",
+  "id_short": 337052,
+  "location_name": "Iowa",
+  "location_type": "state",
+  "repo_name": "the-hhi-monopoly-index-for-iowa-us-sample-337052",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/337052/beamstation_337052_restaurants-us-ia_SAMPLE_DIST.csv",
+  "sample_pct": 9.83,
+  "sample_records": 34,
+  "sample_sha256": "06f2a6886f3cf8c36cd6071f19c7b31d767a1ba35e515a31e74497ca15339ddd",
+  "sample_size_bytes": 144029,
+  "total_records": 346,
+  "updated_at": "2026-04-08T00:48:54.234942+00:00"
+}
