@@ -1,6 +1,6 @@
 # The HHI Monopoly Index for Iowa, US
 
-> Free BeamStation sample export with 32 rows and masked direct-contact fields.
+> Free BeamStation sample export with 19 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `337052` |
 | Location | Iowa |
 | Category | Restaurants |
-| Full dataset size | 328 records |
-| Free sample size | 32 records (9.76%) |
-| Last export | 2026-04-15T06:30:46.012141+00:00 |
+| Full dataset size | 191 records |
+| Free sample size | 19 records (9.95%) |
+| Last export | 2026-04-22T12:31:49.260628+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/the-hhi-monopoly-index-for-iowa-us-sample-337052/releases/download/sample-latest/beamstation_337052_restaurants-us-ia_SAMPLE_DIST.csv) |
 
 ## What is in this sample
