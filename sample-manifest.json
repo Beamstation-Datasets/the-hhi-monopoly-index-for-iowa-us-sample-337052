@@ -1,12 +1,12 @@
 {
-  "export_job_id": "94beeadf-3cf6-4de7-b601-a08b516bbb5c",
+  "export_job_id": "a1cb079f-8ac1-42c8-ba87-157d0e687ff2",
   "id_short": 337052,
-  "published_at": "2026-04-22T19:34:58Z",
+  "published_at": "2026-04-29T19:23:27Z",
   "repo_name": "the-hhi-monopoly-index-for-iowa-us-sample-337052",
   "sample_asset_name": "beamstation_337052_restaurants-us-ia_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/337052/beamstation_337052_restaurants-us-ia_SAMPLE_DIST.csv",
-  "sample_records": 19,
-  "sample_sha256": "66b522543518409a4ae049c2c47ff017953f367f28763e46cfcd3f0c8166b3bc",
-  "sample_size_bytes": 79768,
-  "total_records": 191
+  "sample_records": 32,
+  "sample_sha256": "141c5516e70e3306e5739ebc0b8eff090c24f897dad9d27fb822d752ec75657d",
+  "sample_size_bytes": 127485,
+  "total_records": 329
 }
